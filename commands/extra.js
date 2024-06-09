@@ -7,9 +7,9 @@
  Licensed under the  GPL-3.0 License;
  You may not use this file except in compliance with the License.
  It is supplied in the hope that it may be useful.
- * @project_name : QueenNethu-Md
- * @author : MR.Hansamala <https://github.com/mrhansamala>
- * @description : Nethu,A Multi-functional whatsapp bot.
+ * @project_name : Siri-MD
+ * @author : SIRI <https://github.com/mrhansamala>
+ * @description : SiRi,A Multi-functional whatsapp bot.
  * @version 0.0.6
  *
  */
