@@ -1,7 +1,7 @@
 {
-  "name": "Secktor-Md",
+  "name": "Siri-Md",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
-  "logo": "https://raw.githubusercontent.com/SecktorBot/Brandimages/main/logos/SocialLogo%201.png",
+  "logo": "https://telegra.ph/file/612d8a7d4d13fb2418d41.png",
   "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "SecktorBot", "Secktor","SecktorMD","theme bot","multi device"],
   "success_url": "/",
   "stack": "container",
@@ -51,19 +51,19 @@
       "value": "."
   },
   "AUTO_VOICE": {
-    "description": "Auto Voice reply යන්න ඕන නම් true දෙන්න ඕනෙ නැත්තම් false දෙන්න",
+    "description": "Auto Voice reply",
        "value": "false"
    },
    "AUTO_STICKER": {
-     "description": "auto sticker යන්න ඕන නම් true දෙන්න ඕනෙ නැත්තම් false දෙන්න",
+     "description": "auto sticker",
         "value": "false" 
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "919628516236"
+       "value": "237698046545"
   },
    "SESSION_ID": {
-    "description": "Please put your SESSION_ID here,if you don't have visit https://secktorbot.herokuapp.com/session "
+    "description": "Please put your SESSION_ID"
   },
     "OPENAI_API_KEY": {
     "description": "Please put your OPENAI api key here.Get it from beta.openai.com ",
@@ -80,20 +80,20 @@
   },
     "THEME": {
     "description": "Put the theme name you want to use. Avilable themes are SECKTOR,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..",
-     "value": "SECKTOR"
+     "value": "Siri"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
          "value": "public"
   },
       "AUTO_REACTION": {
-    "description": "Reacts emoji to all commands.",
+    "description": "Reacts emoji to all commands don't change this.",
      "value": "false",
      "required": false 
   },
   "PACK_INFO": {
     "description": "Put packname;authorname.",
-     "value": "SamPandey001;Secktor",
+     "value": "SIRI;MD",
      "required": false 
   }
 },
