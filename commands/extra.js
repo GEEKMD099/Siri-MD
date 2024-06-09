@@ -8,7 +8,7 @@
  You may not use this file except in compliance with the License.
  It is supplied in the hope that it may be useful.
  * @project_name : Siri-MD
- * @author : SIRI <https://github.com/mrhansamala>
+ * @author : SIRI <https://github.com/QUEEKMD099>
  * @description : SiRi,A Multi-functional whatsapp bot.
  * @version 0.0.6
  *
