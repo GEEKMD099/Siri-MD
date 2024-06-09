@@ -6,9 +6,9 @@
  Licensed under the  GPL-3.0 License;
  You may not use this file except in compliance with the License.
  It is supplied in the hope that it may be useful.
- * @project_name : QueenNethu-Md
- * @author : MR.Hansamala <https://github.com/mrhansamala>
- * @description : Nethu,A Multi-functional whatsapp bot.
+ * @project_name : Siri
+ * @author : siri <https://github.com/GEEKMD099>
+ * @description : Siri,A Multi-functional whatsapp bot.
  * @version 0.0.6
 */
 const _0x3d1a78 = _0x41b7;
@@ -43,7 +43,7 @@ cmd({
     _0x459672[_0x79395(0x1f6)](_0x79395(0x1bc));
     _0x5bdadb[_0x79395(0x1b7)](_0x459672[_0x79395(0x1c0)], {
         'image': { 'url': _0x79395(0x1f7) + _0x1d2ea7 + _0x79395(0x1d6) },
-        'caption': '፧Q፧፧U፧፧E፧፧E፧፧N፧\x20፧N፧፧E፧፧T፧፧H፧፧U፧\x20፧W፧፧H፧፧A፧፧T፧፧S፧፧A፧፧P፧፧P፧\x20፧B፧፧O፧፧T፧'
+        'caption': '፧S፧፧I፧፧R፧፧I፧\x20፧M፧፧D፧\x20፧W፧፧H፧፧A፧፧T፧፧S፧፧A፧፧P፧፧P፧\x20፧B፧፧O፧፧T፧'
     }, { 'quoted': _0x459672 });
 });
 cmd({
@@ -190,8 +190,8 @@ cmd({
     const _0x22faf7 = _0x3d1a78;
     if (!_0x445563)
         return _0x422256[_0x22faf7(0x1f6)](_0x22faf7(0x1e7));
-    pack = 'ǫᴜᴇᴇɴ\x20ɴɪʟᴜ\x20✔️';
-    author = 'Janiya\x0aᴍᴀᴅᴇ\x20ʙʏ\x20ǫᴜᴇᴇɴ\x20ɴɪʟᴜ\x20🎊';
+    pack = 'ǫᴜᴇᴇɴ\x20Siri\x20✔️';
+    author = 'Janiya\x0aᴍᴀᴅᴇ\x20ʙʏ\x20Siri\x20MD\x20🎊';
     let _0x220436 = _0x22faf7(0x1b1) + _0x445563 + '&apikey=' + Config[_0x22faf7(0x1cf)];
     _0x422256['react']('✔️');
     let _0x5082c9 = new Sticker(_0x220436, {
@@ -237,7 +237,7 @@ function _0x18b2() {
         '\x0a☛\x20𝙿𝙰𝙲𝙺𝙰𝙶𝙴\x20𝙽𝙰𝙼𝙴\x20:\x20',
         'chat',
         '&apikey=prabath',
-        '፧Q፧፧U፧፧E፧፧E፧፧N፧\x20፧N፧፧E፧፧T፧፧H፧፧U፧\x20፧W፧፧H፧፧A፧፧T፧፧S፧፧A፧፧P፧፧P፧\x20፧B፧፧O፧፧T፧',
+        '፧S፧፧I፧፧R፧፧I፧\x20፧M፧፧D፧\x20፧W፧፧H፧፧A፧፧T፧፧S፧፧A፧፧P፧፧P፧\x20፧B፧፧O፧፧T፧',
         'audio/mpeg',
         '&apikey=',
         'ǫᴜᴇᴇɴ\x20ɴɪʟᴜ\x20✔️',
@@ -270,9 +270,9 @@ function _0x18b2() {
         '📽️\x20━━━━━\x20*𝗩𝗜𝗗𝗘𝗢_𝗜𝗡𝗙𝗢*\x20━━━━━━\x20📽️\x0a\x0a\x0a\x0aℹ️\x20*Title:*\x20',
         'author',
         'wait\x20finding\x20your\x20apk',
-        '\x20\x20\x20*Qᴜᴇᴇɴ\x20ᴺᴱᵀᴴᵁ\x20ᴀᴘᴋ\x20ᴅᴏᴡɴʟᴏᴀᴅᴇʀ\x20*\x0a\x0a☛\x20𝚃𝙸𝚃𝙻𝙴\x20:\x20',
+        '\x20\x20\x20*SIRI\x20MD\x20ᴀᴘᴋ\x20ᴅᴏᴡɴʟᴏᴀᴅᴇʀ\x20*\x0a\x0a☛\x20𝚃𝙸𝚃𝙻𝙴\x20:\x20',
         'video/mp4',
-        'Hansamala\x0aᴍᴀᴅᴇ\x20ʙʏ\x20ǫᴜᴇᴇɴ\x20ᴺᴱᵀᴴᵁ\x20🎊',
+        'donwload\x0aᴍᴀᴅᴇ\x20ʙʏ\x20Siri\x20MD\x20🎊',
         'fb\x20down',
         '*Give\x20Me\x20A\x20Text*',
         'download',
