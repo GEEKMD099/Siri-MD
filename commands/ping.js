@@ -22,7 +22,7 @@ Secktor.cmd({
     },
     async(Void, citel) => {
         var inital = new Date().getTime();
-        await citel.reply('```Ping!!!```');
+        await citel.reply('```SIRI_Ping!!!```');
         var final = new Date().getTime();
         return await citel.reply('*Pong*\n *' + (final - inital) + ' ms* ');
     }
