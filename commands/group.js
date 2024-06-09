@@ -6,9 +6,9 @@
  Licensed under the  GPL-3.0 License;
  You may not use this file except in compliance with the License.
  It is supplied in the hope that it may be useful.
- * @project_name : QueenNethu-Md
- * @author : MR.Hansamala <https://github.com/mrhansamala>
- * @description : Nethu,A Multi-functional whatsapp bot.
+ * @project_name : Siri
+ * @author : Siri <https://github.com/GEEKMD099>
+ * @description : SIRI,A Multi-functional whatsapp bot.
  * @version 0.0.6
  **/
 
@@ -94,7 +94,7 @@ cmd({
         citel.reply(`*Check your Pm ${tlang().greet}*`);
         await Void.sendMessage(`${citel.sender}`, {
             image: log0,
-            caption: `┏─────────────────⬣\n┆*★彡[ɢʀᴏᴜᴘ ɴᴀᴍᴇ]彡★*\n┆        Q͒U͒E͒E͒N͒-🄽ᴇᴛʜᴜ-ＭＤ-𝐵☯𝒯\n┗┬──────────────┈ ⳹\n┏┤▀▄🄶🅁🄾🅄🄿 🄻🄸🄽🄺▀▄\n   ┆\n    ┆https://chat.whatsapp.com/FIDbYbS7zCv9gssLWzTL3y\n┆┗──────────────┈ ⳹\n┆♠︎ 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲 : Qᴜᴇᴇɴ ɴᴇᴛʜᴜ ᴍᴅ\n┗┬──────────────┈ ⳹\n`,
+            caption: `┏─────────────────⬣\n┆*★彡[ɢʀᴏᴜᴘ ɴᴀᴍᴇ]彡★*\n┆        SIRI-𝐵☯𝒯\n┗┬──────────────┈ ⳹\n┏┤▀▄🄶🅁🄾🅄🄿 🄻🄸🄽🄺▀▄\n   ┆\n    ┆https://chat.whatsapp.com/FRQiuFWlYJ3Jolx7OACtKo\n┆┗──────────────┈ ⳹\n┆♠︎ 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲 : SIRI ᴍᴅ\n┗┬──────────────┈ ⳹\n`,
         });
 
     }
@@ -148,7 +148,7 @@ cmd({
 		const participants = citel.isGroup ? await groupMetadata.participants : "";
     let textt = `_Here is jid address of all users of_\n *- ${groupMetadata.subject}*\n\n`
     for (let mem of participants) {
-            textt += `📍 ${mem.id}\n`;
+            textt += `🤖 ${mem.id}\n`;
         }
       citel.reply(textt)
 
@@ -177,7 +177,7 @@ cmd({
 ➲ *Author:* ${citel.pushName} 🔖
 `
         for (let mem of participants) {
-            textt += `📍 @${mem.id.split("@")[0]}\n`;
+            textt += `🖋️ @${mem.id.split("@")[0]}\n`;
         }
         Void.sendMessage(citel.chat, {
             text: textt,
