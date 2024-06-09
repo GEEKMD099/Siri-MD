@@ -6,16 +6,16 @@ if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/co
 global.owner = process.env.OWNER_NUMBER.split(",")
 global.mongodb = process.env.MONGODB_URI || "Enter-MongoURI-HERE"
 global.port= process.env.PORT || 5000
-global.email = 'shashikachirath1@gmail.com'
-global.github = 'https://github.com/mrhansamala/-Queen-Nethu-MD-Bot-'
+global.email = 'etoundiruben45@gmail.com'
+global.github = 'https://github.com/GEEKMD099/Siri-MD'
 global.location = 'Sultanpur IN'
 global.gurl = 'https://instagram.com/' // add your username
-global.sudo = process.env.SUDO || '94781708673'
-global.devs = '94781708673';
-global.website = 'https://github.com/mrhansamala/-Queen-Nethu-MD-Bot-' //wa.me/+91000000000000
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/d229929fd0e975d64010c.jpg'
+global.sudo = process.env.SUDO || '237698046545'
+global.devs = '237698046545';
+global.website = 'https://github.com/GEEKMD099/Siri-MD' //wa.me/+91000000000000
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/612d8a7d4d13fb2418d41.png'
 module.exports = {
-  botname: process.env.BOT_NAME || 'Queen Nethu',
+  botname: process.env.BOT_NAME || 'SIRI MD',
   ownername:process.env.OWNER_NAME || 'MR.Hansamala',
   sessionName: process.env.SESSION_ID || 'PUT-HERE',
   author: process.env.PACK_INFO.split(";")[0] || 'author', 
@@ -36,7 +36,7 @@ module.exports = {
   ALIVE_MESSAGE: process.env.ALIVE_MESSAGE || '',
   OPENAI_API_KEY: process.env.OPENAI_API_KEY || 'OPENAI_KEY',
   VERSION: process.env.VERSION === undefined ? 'v.0.0.3' : process.env.VERSION,
-  LANG: process.env.THEME|| 'SECKTOR',
+  LANG: process.env.THEME|| 'Siri',
   WORKTYPE: process.env.WORKTYPE === undefined ? 'public' : process.env.WORKTYPE
 };
 
